@@ -1,0 +1,8 @@
+{
+  "name": "Tire Shop Pro",
+  "description": "Inventory, sales, and vehicle compatibility management system for tire shops and automotive service centers with bilingual English/Arabic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
